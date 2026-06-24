@@ -18,6 +18,7 @@ I'm Mayur Shinde
 - Node.js
 - Express.js
 - MongoDB
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayurShinde18)
 
 
 
